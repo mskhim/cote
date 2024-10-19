@@ -13,7 +13,7 @@ public class test2751 {
 		for (int i = 0; i < num; i++) {
 			list.add(sc.nextInt());
 		}
-		Collections.sort(list);
+		Collections.sort(list);  
 		for(Integer data:list) {
 			System.out.println(data);
 		}
